@@ -1,6 +1,6 @@
 # `pytrends` tutorial
 
-This script offers an understanding of how to retrieve data from the [pytrends](https://github.com/GeneralMills/pytrends)
+This script offers an understanding of how to retrieve data from the [pytrends](https://github.com/GeneralMills/pytrends) Python package.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ This script offers example of usage of `pytrends`, an unofficial Google Trends A
 
 ### Prerequisites
 
-When you run the script locally in your machine, please install the `pytrends` module.
+When you run the script locally in your machine, please install the `pytrends` package.
 
 ```
 conda activate your_env
@@ -21,6 +21,8 @@ pip install pytrends
 ## Deployment
 
 It is recommended to run the script in CoLab the first time.
+
+To further understand how the `pytrends` queries work, please visit this webpage: https://pypi.org/project/pytrends/
 
 
 ## Built With
