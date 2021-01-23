@@ -8,7 +8,9 @@ This script offers example of usage of `pytrends`, an unofficial Google Trends A
 
 ### Prerequisites
 
-When you run the script locally in your machine, please install the `pytrends` package.
+When you run the script locally in your machine, please install the `pytrends` package first.
+
+For instance, go in the Anaconda Prompt and write
 
 ```
 conda activate your_env
