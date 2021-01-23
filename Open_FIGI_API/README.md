@@ -46,6 +46,6 @@ The final lines of code export the results into an Excel file when using CoLab. 
 
 ## Authors
 
-* [Sofia Gori](https://github.com/SofG96)
+* [Sofia Gori](https://github.com/SofiaGori)
 
 
