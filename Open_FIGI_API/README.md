@@ -25,7 +25,7 @@ If you wish to modify the script to fit your purposes, you will need to download
 
 The script requires some modules to be installed in your environment.
 
-```
+```python
 conda activate name_env
 pip install json         
 pip install requests  
