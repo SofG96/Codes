@@ -23,7 +23,7 @@ If you wish to modify the script to fit your purposes, you will need to download
 
 ### Installing
 
-The script requires some modules to be installed in your environment.
+The script requires some packages to be installed in your environment. Please write in the Anaconda Prompt:
 
 ``` python
 conda activate name_env
