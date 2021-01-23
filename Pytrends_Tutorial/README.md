@@ -1,4 +1,4 @@
-# `pytrends` Tutorial
+# `pytrends` tutorial
 
 This script offers an understanding of how to retrieve data from the [pytrends](https://github.com/GeneralMills/pytrends)
 
